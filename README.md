@@ -21,6 +21,7 @@ you can notice that, the app use cypress framework to pass e2e test. To run this
 ## Sources:
 
 Github API: https://developer.github.com/v3/
+
 cypress: https://www.cypress.io/features/
 
 ### Project preview:
